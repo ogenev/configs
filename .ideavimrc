@@ -1,0 +1,12 @@
+set surround
+
+let mapleader = "\<Space>"
+nnoremap j gj
+nnoremap k gk
+nnoremap gd :action GotoDeclaration<CR>
+nnoremap gs :action GotoSuperMethod<CR>
+nnoremap gi :action GotoImplementation<CR>
+nnoremap gb :action JumpToLastChange<CR>
+nnoremap gbb :action Back<CR>
+nnoremap cc :action CommentByLineComment<CR>
+vnoremap cc :action CommentByLineComment<CR>
