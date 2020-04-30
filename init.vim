@@ -33,7 +33,7 @@ Plug 'stephpy/vim-yaml'
 Plug 'rust-lang/rust.vim'
 Plug 'preservim/nerdcommenter'
 Plug 'dag/vim-fish'
-Plug 'davidhalter/jedi-vim'
+" Plug 'davidhalter/jedi-vim'
 
 call plug#end()
 

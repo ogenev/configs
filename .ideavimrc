@@ -1,6 +1,10 @@
 set surround
-
 let mapleader = "\<Space>"
+
+map <Enter> o<ESC>
+map <S-Enter> O<ESC>
+imap jj <Esc>
+set timeoutlen=1000
 nnoremap j gj
 nnoremap k gk
 nnoremap gd :action GotoDeclaration<CR>
