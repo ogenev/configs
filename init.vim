@@ -318,6 +318,8 @@ nnoremap <C-h> :nohlsearch<cr>
 " <leader><leader> toggles between buffers
 nnoremap <leader><leader> <c-^>
 
+" map jj as Esc
+imap jj <Esc>
 " I can type :help on my own, thanks.
 map <F1> <Esc>
 imap <F1> <Esc>
