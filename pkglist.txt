@@ -107,9 +107,11 @@ neovim
 networkmanager
 nodejs
 npm
+ntfs-3g
 nvidia
 nvidia-lts
 orca
+os-prober
 pacman
 patch
 pkgconf
@@ -139,6 +141,7 @@ vino
 virtualbox
 virtualbox-guest-iso
 which
+woeusb-git
 xdg-user-dirs-gtk
 xf86-video-vesa
 xorg-bdftopcf
