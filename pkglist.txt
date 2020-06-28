@@ -83,6 +83,7 @@ gvfs-nfs
 gvfs-smb
 gzip
 htop
+icu64
 inetutils
 intel-ucode
 jump
@@ -115,9 +116,11 @@ os-prober
 pacman
 patch
 pkgconf
+pulse-secure
 pulseaudio
 pulseaudio-alsa
 pycharm-community-eap
+python-h5py
 reflector
 remmina
 rider
@@ -128,6 +131,7 @@ skypeforlinux-stable-bin
 spotify
 sudo
 sushi
+teams
 texinfo
 thunderbird
 timeshift
@@ -140,6 +144,7 @@ usbutils
 vino
 virtualbox
 virtualbox-guest-iso
+webkitgtk
 which
 woeusb-git
 xdg-user-dirs-gtk
