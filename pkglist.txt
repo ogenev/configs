@@ -6,6 +6,7 @@ base
 binutils
 bison
 buzz-git
+calibre
 cheese
 chrome-gnome-shell
 clang
