@@ -107,6 +107,7 @@ nautilus
 neomutt
 neovim
 networkmanager
+networkmanager-openconnect
 nodejs
 npm
 ntfs-3g
@@ -120,7 +121,7 @@ pkgconf
 pulse-secure
 pulseaudio
 pulseaudio-alsa
-pycharm-community-eap
+pycharm-professional
 python-h5py
 reflector
 remmina
@@ -129,10 +130,12 @@ rygel
 sed
 simple-scan
 skypeforlinux-stable-bin
+slack-desktop
 spotify
 sudo
 sushi
 teams
+teamviewer
 texinfo
 thunderbird
 timeshift
